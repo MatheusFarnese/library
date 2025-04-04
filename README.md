@@ -139,6 +139,7 @@ tests.py::test_rent_distinct_books_long_duration PASSED                         
 
 Os testes são executados automaticamente no GitHub Actions sempre que um commit é realizado.
 Portanto, para rodar os testes no GitHub Actions, realize uma alteração qualquer neste arquivo `README.md` e faça o commit da alteração com a seguinte mensagem: *Commit 1: Running the tests*.
+< Essa é a alteração no README.md para o commit 1 >
 
 Em seguida, clique na aba `Actions` e veja que os testes foram executados com sucesso no GitHub Actions. 
 Observe as execuções em múltiplos sistemas operacionais e versões da linguagem Python.
